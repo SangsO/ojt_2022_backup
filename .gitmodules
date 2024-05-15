@@ -1,0 +1,3 @@
+[submodule "Embedded-C"]
+	path = Embedded-C
+	url = https://github.com/niekiran/Embedded-C.git
