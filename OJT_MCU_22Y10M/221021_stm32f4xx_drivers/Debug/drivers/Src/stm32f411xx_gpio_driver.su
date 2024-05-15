@@ -1,0 +1,2 @@
+../drivers/Src/stm32f411xx_gpio_driver.c:33:6:GPIO_PeriClockControl	16	static
+../drivers/Src/stm32f411xx_gpio_driver.c:96:6:GPIO_Init	24	static
